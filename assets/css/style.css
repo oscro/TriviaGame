@@ -1,0 +1,107 @@
+body{
+
+ 
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+    background-image: url("../images/trivia_background.jpg");
+
+
+
+}
+
+
+
+h1{
+
+
+
+    font-family: 'Staatliches', cursive;
+
+    margin-top: 50px;
+
+    font-size: 50px;
+
+
+
+}
+
+
+
+#timeRem{
+
+
+
+    font-size: 27px;
+
+    font-weight: bold;
+
+
+
+}
+
+
+
+.questionbox{
+
+
+
+    margin-top: 20px;
+
+
+
+}
+
+
+
+.top-container{
+
+
+
+    margin-top: 40px;
+
+    margin-bottom: 40px;
+
+    background-color: white;
+
+
+
+}
+
+
+
+#startBtn{
+
+
+
+    margin-bottom: 20px;
+
+
+
+}
+
+
+
+#submitBtn{
+
+
+
+    margin-bottom: 20px;
+
+
+
+}
+
+
+
+.resultsBox{
+
+
+
+    font-weight: bold;
+
+    margin-bottom: 20px;
+
+
+
+}
